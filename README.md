@@ -1,5 +1,5 @@
 # Tujuan pembuatan program ini?
-Program Diet ini dibuat karena kepedulian pembuat program akan perilaku konsumtif masyarakat yang sedang marak terjadi seiring dengan perkembangannya jaman. Dengan program ini diharapkan masyarakat lebih memperhatikan kesehatan diri sendiri dengan cara menjaga pola makan dan gaya hidup yang sehat yang berkepanjangan.
+Program Diet ini dibuat karena kepedulian pembuat program akan perilaku konsumtif masyarakat yang sedang marak terjadi seiring dengan perkembangan jaman. Dengan program ini diharapkan masyarakat lebih memperhatikan kesehatan diri sendiri dengan cara menjaga pola makan dan gaya hidup yang sehat yang berkepanjangan.
 
 # Fitur yang dimiliki?
 - Menghitung BMR (Basal Metabolic Rate) 
